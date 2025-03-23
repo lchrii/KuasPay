@@ -12,32 +12,6 @@ Pembayaran via QRIS - Pembayaran dilakukan dengan metode QRIS untuk kemudahan tr
 
 Manajemen Pesanan - Penjual dapat melihat daftar pesanan yang masuk.
 
-Teknologi yang Digunakan
-
-Frontend: HTML, CSS, JavaScript, Bootstrap, SweetAlert2
-
-Backend: PHP
-
-Database: MySQL
-
-Cara Menjalankan Aplikasi
-
-Clone repository ini ke lokal:
-
-git clone https://github.com/username/kuaspay.git
-
-Pastikan server web dan database (XAMPP/Laragon) telah berjalan.
-
-Import file database kuaspay.sql ke dalam MySQL.
-
-Konfigurasi koneksi database pada file config.php.
-
-Jalankan aplikasi di browser dengan mengakses localhost/kuaspay.
-
-Kontribusi
-
-Jika ingin berkontribusi dalam pengembangan aplikasi ini, silakan fork repository ini dan buat pull request.
-
 Lisensi
 
 Aplikasi ini dikembangkan untuk tujuan edukasi dan bebas digunakan.
